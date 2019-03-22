@@ -41,7 +41,7 @@
             this.button1.Location = new System.Drawing.Point(71, 83);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(62, 23);
-            this.button1.TabIndex = 0;
+            this.button1.TabIndex = 3;
             this.button1.Text = "Encrypt";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -59,7 +59,7 @@
             this.button2.Location = new System.Drawing.Point(154, 83);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(64, 23);
-            this.button2.TabIndex = 3;
+            this.button2.TabIndex = 4;
             this.button2.Text = "Decrypt";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -70,7 +70,7 @@
             this.textBox2.Location = new System.Drawing.Point(71, 40);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(147, 20);
-            this.textBox2.TabIndex = 4;
+            this.textBox2.TabIndex = 2;
             // 
             // label1
             // 
